@@ -46,35 +46,7 @@ Open the local URL shown in the terminal (usually http://localhost:8501).
 ## Contribution
 Contributions and improvements are welcome — submit issues or pull requests.
 
-## License
-Add a license of your choice (e.g., MIT) if you plan to publish this project.
-```# filepath: c:\projects\NLP\README.md
-...existing code...
 
-# Text Summarization APP
-
-A small Streamlit web app that generates concise summaries from input text using Sumy summarizers (LSA, Luhn, LexRank, TextRank).
-
-## Features
-- Choose summarization algorithm: Lsa, Luhn, LexRank, TextRank
-- Select number of sentences for the summary (1–10)
-- View summary in the app and download as a text file
-
-## Requirements
-- Python 3.8+
-- Windows (tested)
-- Packages:
-  - streamlit
-  - sumy
-
-## Install
-Open PowerShell in the project folder:
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-pip install -U pip
-pip install streamlit sumy
-```
 
 ## Run
 ```powershell
