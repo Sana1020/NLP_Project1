@@ -27,7 +27,6 @@ pip install streamlit sumy
 ## License
 Add a license of your choice (e.g., MIT) if you plan to publish this project.
 ```# filepath: c:\projects\NLP\README.md
-...existing code...
 
 # Text Summarization APP
 
